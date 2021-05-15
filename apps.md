@@ -1,3 +1,5 @@
+This is time-to-time mirror of my "apps" page in my personal notebook
+
 ### Text editors
 
 *   Geany \[linux\]
